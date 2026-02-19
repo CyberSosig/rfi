@@ -1,1 +1,1 @@
-<?PHP echo "Hello THM"; ?>
+<?PHP echo "ping 8.8.8.8"; ?>
