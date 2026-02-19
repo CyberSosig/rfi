@@ -1,1 +1,1 @@
-<?PHP echo "ping 8.8.8.8"; ?>
+<?PHP echo "../../../../etc/passwd"; ?>
