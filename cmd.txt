@@ -1,1 +1,3 @@
-<?PHP echo "../../../../etc/passwd"; ?>
+<?php
+
+readfile('/path/to/file.txt');
